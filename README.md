@@ -18,14 +18,14 @@ Our chosen persona is food delivery partners. We focus on this group because the
 ### Traffic: 
 Common problem in most Indian cities which leads to delay in orders and unproductive waiting time
 
-### Platform Reliability Factors
+### Platform Reliability Factors:
   **High Server Latency**: Slow response times delay or prevent order assignment
 
   **App Crashes / Downtime**: Workers are unable to receive or accept orders
 
   **Order Assignment Failures**: Backend issues prevent orders from being allocated
 
-### Civic and Regulatory
+### Civic and Regulatory Factors:
   **Curfews / Strikes / Movement restrictions**: unable to access pickup and drop locations and possibility of order disruptions
 
 ## Financial Model
