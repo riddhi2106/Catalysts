@@ -33,7 +33,8 @@ The drop from a normal day to a flood day is not 20% — it is 100%. And the dro
 
 ![Earnings Impact](./chart.png)
 
-***Values are illustrative estimates derived from reported earnings structures, fuel costs, and observed disruption impacts in Indian food delivery platforms.****
+*Values are illustrative estimates derived from reported earnings structures, fuel costs, and observed disruption impacts in Indian food delivery platforms.
+
 ---
 
 ## Application Workflow
