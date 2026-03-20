@@ -47,7 +47,7 @@ The platform is a **web application**, accessible via any browser on desktop or 
 
 **Claims Automation:** Fully zero-touch. The monitoring engine continuously polls weather APIs, platform health endpoints, and civic alert feeds. When a trigger condition is satisfied and the worker holds an active policy, a claim is initiated automatically — no action required from the worker. The anti-spoofing and fraud layer validates the claim, and if cleared, the payout is processed within minutes. The design philosophy is straightforward: the worker should not have to “prove” that something went wrong. If the system can verify the disruption independently, compensation should follow automatically.
 
-** Smart Protection Mode (Proactive AI Feature)**
+**Smart Protection Mode (Proactive AI Feature)**
 
 Rather than waiting for a disruption to occur, Smart Protection Mode acts before it happens. When the LSTM forecasting model detects a high-probability disruption event in the next 12–24 hours, it proactively alerts uninsured workers in that zone via browser notification or SMS:
 
