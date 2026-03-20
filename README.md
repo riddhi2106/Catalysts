@@ -1,8 +1,12 @@
 ## Introduction
 
 India's food delivery workforce is the operational backbone of a multi-billion dollar platform economy. Delivery partners working for Zomato, Swiggy, and similar platforms number in the millions, yet they operate without any safety net against the external disruptions that routinely erase their income. According to the Fairwork India Report 2024, delivery workers earn ₹15,000–20,000 per month — already below the effective minimum wage for hours worked — and no major platform scored above 6 out of 10 on fair labour standards. When disruptions strike, workers absorb the full financial blow alone.
+
 The income loss problem is structural, not incidental. Platform pay is a piece-rate plus incentive stack: a base per-order payment (typically ₹20–50 within a ~5 km radius), supplemented by slab-based bonuses tied to completing daily delivery targets of 10, 20, or 25 orders. This means disruptions have a non-linear effect — missing a slab threshold because a flood cut two hours from a shift can cause earnings to fall far more sharply than the lost hours alone would imply. Zomato's own public data (2026) shows that a full-time partner working 10 hours/day earns around ₹102/hour gross, with ~20% leaking to fuel and maintenance — leaving a net daily income of roughly ₹808, a margin thin enough that a single disrupted day is a meaningful financial shock.
-This platform is an AI-enabled parametric insurance solution built specifically for food delivery partners. When a qualifying external disruption is verified through objective, third-party data sources, a payout is automatically credited to the worker's UPI wallet — no claims forms, no adjusters, no waiting. Coverage is strictly limited to income lost from external disruptions. Health, life, accidents, and vehicle repairs are explicitly excluded. At a practical level, this problem is visible in everyday conversations around gig work — a single disrupted evening shift can wipe out a significant portion of a worker’s weekly income. This is not an edge case, but a recurring pattern.
+
+This platform is an AI-enabled parametric insurance solution built specifically for food delivery partners. When a qualifying external disruption is verified through objective, third-party data sources, a payout is automatically credited to the worker's UPI wallet — no claims forms, no adjusters, no waiting. Coverage is strictly limited to income lost from external disruptions. Health, life, accidents, and vehicle repairs are explicitly excluded. 
+
+At a practical level, this problem is visible in everyday conversations around gig work — a single disrupted evening shift can wipe out a significant portion of a worker’s weekly income. This is not an edge case, but a recurring pattern.
 We are not insuring accidents — we are insuring the hours a worker never gets the chance to work.
 
 
@@ -54,6 +58,8 @@ Rather than waiting for a disruption to occur, Smart Protection Mode acts before
 > *"Heavy rain expected 7–10 PM in your zone. Enable coverage for ₹6 today — you're protected before the storm hits."*
 
 The worker visits the platform and activates a single-session micro-policy with one click. No forms, no re-registration. This makes the platform proactive rather than purely reactive — turning AI-driven forecasting into a direct, personalised intervention at exactly the moment a worker needs it. For uninsured workers who missed the weekly signup window, Smart Protection Mode is their safety net. For the platform, it converts the forecasting model from a backend pricing tool into a visible, trust-building user feature.
+
+![kfkkfkfkf](https://github.com/user-attachments/assets/4eff92c1-af44-49a4-8240-832120e33ecd)
 
 ---
 
