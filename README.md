@@ -128,3 +128,7 @@ The default seeded workers use supported Bengaluru zones wired into the live env
 In India, a single disrupted evening shift can wipe out 20-30% of a delivery partner's weekly income. This isn't just about "rain" - it's about the hours a worker never gets the chance to work. InsuriFyx aims to bridge this gap by providing an automated safety net that respects the time and effort of the gig workforce.
 
 ---
+
+## Pitch Deck
+
+https://drive.google.com/file/d/136mdF3juqC4BisELrKttuGIM93XcwEsZ/view?usp=sharing
